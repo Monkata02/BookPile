@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BookPile/static/css/main.39adc4fb.css",
+    "main.js": "/BookPile/static/js/main.bc0d8b3c.js",
+    "static/media/logo.svg": "/BookPile/static/media/logo.54a3c7562a0694cdb93a39f0583faa9d.svg",
+    "index.html": "/BookPile/index.html",
+    "main.39adc4fb.css.map": "/BookPile/static/css/main.39adc4fb.css.map",
+    "main.bc0d8b3c.js.map": "/BookPile/static/js/main.bc0d8b3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39adc4fb.css",
+    "static/js/main.bc0d8b3c.js"
+  ]
+}
